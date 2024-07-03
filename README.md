@@ -105,13 +105,5 @@
                 console.error('Error:', error);
             });
         }
-
-	<iframe
-    allow="microphone;"
-    width="350"
-    height="430"
-    src="https://console.dialogflow.com/api-client/demo/embedded/4929c182-eae0-49b2-a71a-90a58a022663">
-</iframe>
-    </script>
 </body>
 </html>
